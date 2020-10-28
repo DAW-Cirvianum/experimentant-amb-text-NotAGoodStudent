@@ -50,8 +50,10 @@ body
 .sans
 {
     font-family: SansSerif;
-    text-overflow: ellipsis;
+    text-overflow: clip;
     font-size: 20vmin;
+    overflow: hidden;
+    width: 50px;
 }
 
 .dancing
