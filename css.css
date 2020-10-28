@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@font-face {
+    font-family: dancingscr;
+    src: url("fonts/DancingScript/Dancing-Script.svg");
+    font-family: montserrat;
+    src: url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+}
+
+body
+{
+    font-size: 18px;
+}
+.georgia
+{
+    font-family: Georgia;;
+    font-size: 5em;
+
+}
+
+
+.platino
+{
+    font-family: Chandas;
+    font-style: italic;
+    font-size: 5cm;
+}
+
+.arial
+{
+    font-family: Arial;
+    text-shadow: 1px 1px 2px red;
+
+    font-size: 100pt;
+
+}
+
+.tahoma
+{
+    font-family: Chandas;
+    text-decoration: underline;
+    font-size: 5rem;
+}
+
+.times
+{
+    font-family: FreeSerif;
+    font-weight: 700;
+    font-size: 5vw;
+}
+.sans
+{
+    font-family: SansSerif;
+    text-overflow: ellipsis;
+    font-size: 20vmin;
+}
+
+.dancing
+{
+    font-family: dancingscr;
+    text-align: center;
+    font-size: 5vmax;
+}
+
+.montserrat
+{
+    font-family: montserrat;
+    line-height: 5px;
+    font-size: 5%;
+}
+
